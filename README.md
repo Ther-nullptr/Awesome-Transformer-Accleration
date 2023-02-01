@@ -32,6 +32,8 @@
 
 * [NUQMM: QUANTIZED MATMUL FOR EFFICIENT INFERENCE OF
   LARGE-SCALE GENERATIVE LANGUAGE MODELS](https://arxiv.org/pdf/2206.09557.pdf) - *Pohang University of Science and Technology*, `arxiv 2022`
+
+* [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339) - *University of Washington & FAIR*, `NIPS 2022`
   
 * [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](http://arxiv.org/abs/2211.10438) - *MIT*, `arxiv 2022`
 
