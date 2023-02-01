@@ -18,14 +18,13 @@
 
 * [Q8BERT: Quantized 8Bit BERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463531) - *Intel AI Lab*, `NIPS Workshop 2019`
 
-* [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/pdf/2206.01861.pdf) - *Microsoft*, `arxiv 2022`
-
 * [Ternarybert: Distillation-aware ultra-low bit bert](https://arxiv.org/pdf/2009.12812.pdf) - *Huawei Noah’s Ark Lab*, `EMNLP 2020`
 
 * [I-BERT: Integer-only BERT Quantization](https://arxiv.org/pdf/2101.01321v3.pdf) - *University of California, Berkeley*, `ICML 2021`
 
 * [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://aclanthology.org/2021.emnlp-main.627) - *Qualcomm AI Research*, `EMNLP 2021`
 
+* [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/pdf/2206.01861.pdf) - *Microsoft*, `arxiv 2022`
 
 ## GPT
 
