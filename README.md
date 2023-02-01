@@ -26,6 +26,8 @@
 
 * [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/pdf/2206.01861.pdf) - *Microsoft*, `arxiv 2022`
 
+* [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325) - *BUAA & SenseTime & PKU & UESTC*, `NIPS 2022`
+
 ## GPT
 
 * [Compression of Generative Pre-trained Language Models via Quantization](https://arxiv.org/pdf/2203.10705.pdf) - *The University of Hong Kong & Huawei Noah’s Ark Lab*, `ACL 2022`
