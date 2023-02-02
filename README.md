@@ -39,8 +39,10 @@
   
 * [SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](http://arxiv.org/abs/2211.10438) - *MIT*, `arxiv 2022`
 
-* [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://arxiv.org/pdf/2210.17323.pdf) - *IST Austria & ETH Zurich,* `arxiv 2022`
+* [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://arxiv.org/pdf/2210.17323.pdf) - *IST Austria & ETH Zurich*,  `arxiv 2022`
 
-* [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research,* `arxiv 2022`
+* [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research*,  `arxiv 2022`
+
+* [SPARSEGPT: MASSIVE LANGUAGE MODELS CAN BE ACCURATELY PRUNED IN ONE-SHOT](https://arxiv.org/pdf/2301.00774.pdf) - *IST Austria*, `arxiv 2023`
 
 updating ...
