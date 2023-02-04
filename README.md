@@ -51,6 +51,6 @@
 
 * [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
 
-* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *arxiv 2022*, `Qualcomm AI Research`
+* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research* `arxiv 2022`, 
 
 updating ...
