@@ -1,4 +1,6 @@
-## ViT
+## Software Algorithms
+
+### ViT
 
 * [Post-Training Quantization for Vision Transformer](https://arxiv.org/abs/2106.14156) - *PKU & Huawei Noah’s Ark Lab*, `NIPS 2021`
 
@@ -14,7 +16,7 @@
 
 * [PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2209.05687) - *CASIA*, `arxiv 2022`
 
-## BERT
+### BERT
 
 * [Q8BERT: Quantized 8Bit BERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463531) - *Intel AI Lab*, `NIPS Workshop 2019`
 
@@ -28,7 +30,7 @@
 
 * [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325) - *BUAA & SenseTime & PKU & UESTC*, `NIPS 2022`
 
-## GPT
+### GPT
 
 * [Compression of Generative Pre-trained Language Models via Quantization](https://arxiv.org/pdf/2203.10705.pdf) - *The University of Hong Kong & Huawei Noah’s Ark Lab*, `ACL 2022`
 
@@ -44,5 +46,11 @@
 * [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research*,  `arxiv 2022`
 
 * [SPARSEGPT: MASSIVE LANGUAGE MODELS CAN BE ACCURATELY PRUNED IN ONE-SHOT](https://arxiv.org/pdf/2301.00774.pdf) - *IST Austria*, `arxiv 2023`
+
+## Hardware Implementations
+
+* [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
+
+* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *arxiv 2022*, `Qualcomm AI Research`
 
 updating ...
