@@ -51,6 +51,18 @@
 
 * [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
 
-* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research* `arxiv 2022`, 
+* [A3: Accelerating Attention Mechanisms in Neural Networks with Approximation](https://ieeexplore.ieee.org/abstract/document/9065498/) - *Seoul National University & Hynix*, `HPCA 2020`
+
+* [ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks](https://ieeexplore.ieee.org/document/9499860/) - *Seoul National University*, `ISCA 2021`
+
+* [Accelerating Framework of Transformer by Hardware Design and Model Compression Co-Optimization](https://ieeexplore.ieee.org/abstract/document/9643586) - *ECNU*, `ICCAD 2022`
+
+* [Accelerating attention through gradient-based learned runtime pruning](https://dl.acm.org/doi/abs/10.1145/3470496.3527423) - *UCSD & Google*, `ISCA 2022`
+
+* [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research*, `arxiv 2022`
+
+
+
+
 
 updating ...
