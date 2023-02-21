@@ -1,4 +1,4 @@
-## Software Algorithms
+## Software Algorithms -- Quantization
 
 ### ViT
 
@@ -45,7 +45,15 @@
 
 * [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research*,  `arxiv 2022`
 
+## Software Algorithms -- Pruning
+
+* [A Fast Post-Training Pruning Framework for Transformers](https://arxiv.org/pdf/2204.09656.pdf) - *UC Berkeley*, `arxiv 2022`
+
 * [SPARSEGPT: MASSIVE LANGUAGE MODELS CAN BE ACCURATELY PRUNED IN ONE-SHOT](https://arxiv.org/pdf/2301.00774.pdf) - *IST Austria*, `arxiv 2023`
+
+* [WHAT MATTERS IN THE STRUCTURED PRUNING OF GENERATIVE LANGUAGE MODELS?](http://arxiv.org/abs/2302.03773) - *CMU & Microsoft*, `arxiv 2023`
+
+* [ZipLM: Hardware-Aware Structured Pruning of Language Models](https://arxiv.org/pdf/2302.04089.pdf) - *IST Austria*, `arxiv 2023`
 
 ## Hardware Implementations
 
@@ -60,9 +68,5 @@
 * [Accelerating attention through gradient-based learned runtime pruning](https://dl.acm.org/doi/abs/10.1145/3470496.3527423) - *UCSD & Google*, `ISCA 2022`
 
 * [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research*, `arxiv 2022`
-
-
-
-
 
 updating ...
