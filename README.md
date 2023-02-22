@@ -43,6 +43,8 @@
 
 * [GPTQ: ACCURATE POST-TRAINING QUANTIZATION FOR GENERATIVE PRE-TRAINED TRANSFORMERS](https://arxiv.org/pdf/2210.17323.pdf) - *IST Austria & ETH Zurich*,  `arxiv 2022`
 
+* [The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/pdf/2212.09720.pdf) - *University of Washington*, `arxiv 2022`
+
 * [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research*,  `arxiv 2022`
 
 ## Software Algorithms -- Pruning
@@ -55,7 +57,7 @@
 
 * [ZipLM: Hardware-Aware Structured Pruning of Language Models](https://arxiv.org/pdf/2302.04089.pdf) - *IST Austria*, `arxiv 2023`
 
-## Hardware Implementations
+## Hardware & System Implementations
 
 * [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
 
@@ -67,6 +69,26 @@
 
 * [Accelerating attention through gradient-based learned runtime pruning](https://dl.acm.org/doi/abs/10.1145/3470496.3527423) - *UCSD & Google*, `ISCA 2022`
 
+* [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/pdf/2207.00032.pdf) - *Microsoft*, `arxiv 2022`
+
 * [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research*, `arxiv 2022`
+
+* [PETALS: Collaborative Inference and Fine-tuning of Large Models](http://arxiv.org/abs/2209.01188) - *Yandex*, `arxiv 2022`
+
+* [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102.pdf) - *Google*, `arxiv 2022`
+
+* [High-throughput Generative Inference of Large Language Models with a Single GPU](https://github.com/FMInference/FlexGen/blob/main/docs/paper.pdf) - *Stanford etc.*, `arxiv 2023`
+
+## Platform
+
+* [EET](https://github.com/NetEase-FuXi/EET)
+
+* [petals](https://petals.ml/)
+
+* [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
+
+* [SmoothQuant](https://github.com/mit-han-lab/smoothquant)
+
+* [FlexGen](https://github.com/FMInference/FlexGen)
 
 updating ...
