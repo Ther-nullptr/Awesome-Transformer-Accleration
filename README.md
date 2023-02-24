@@ -91,4 +91,6 @@
 
 * [FlexGen](https://github.com/FMInference/FlexGen)
 
+* [DeepSpeed](https://github.com/microsoft/DeepSpeed)
+
 updating ...
