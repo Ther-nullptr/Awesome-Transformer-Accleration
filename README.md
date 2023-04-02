@@ -16,6 +16,8 @@
 
 * [PSAQ-ViT V2: Towards Accurate and General Data-Free Quantization for Vision Transformers](https://arxiv.org/abs/2209.05687) - *CASIA*, `arxiv 2022`
 
+* [NoisyQuant: Noisy Bias-Enhanced Post-Training Activation Quantization for Vision Transformers](https://arxiv.org/abs/2211.16056) - *NJU & UCB & PKU*, `arxiv 2022`
+
 ### BERT
 
 * [Q8BERT: Quantized 8Bit BERT](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9463531) - *Intel AI Lab*, `NIPS Workshop 2019`
