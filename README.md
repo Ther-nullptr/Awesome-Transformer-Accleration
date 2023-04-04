@@ -59,9 +59,17 @@
 
 * [ZipLM: Hardware-Aware Structured Pruning of Language Models](https://arxiv.org/pdf/2302.04089.pdf) - *IST Austria*, `arxiv 2023`
 
-## Hardware & System Implementations
+## Hardware Implementations -- Machine Learning System
 
-* [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
+* [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/pdf/2207.00032.pdf) - *Microsoft*, `arxiv 2022`
+
+* [PETALS: Collaborative Inference and Fine-tuning of Large Models](http://arxiv.org/abs/2209.01188) - *Yandex*, `arxiv 2022`
+
+* [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102.pdf) - *Google*, `arxiv 2022`
+
+* [High-throughput Generative Inference of Large Language Models with a Single GPU](https://github.com/FMInference/FlexGen/blob/main/docs/paper.pdf) - *Stanford etc.*, `arxiv 2023`
+
+## Hardware Implementations -- Acclerators
 
 * [A3: Accelerating Attention Mechanisms in Neural Networks with Approximation](https://ieeexplore.ieee.org/abstract/document/9065498/) - *Seoul National University & Hynix*, `HPCA 2020`
 
@@ -71,15 +79,13 @@
 
 * [Accelerating attention through gradient-based learned runtime pruning](https://dl.acm.org/doi/abs/10.1145/3470496.3527423) - *UCSD & Google*, `ISCA 2022`
 
-* [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/pdf/2207.00032.pdf) - *Microsoft*, `arxiv 2022`
+## Hardware Implementations -- Datatype
+
+* [Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks](https://proceedings.neurips.cc/paper/2019/hash/65fc9fb4897a89789352e211ca2d398f-Abstract.html) - *IBM*, `NIPS 2019`
 
 * [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research*, `arxiv 2022`
 
-* [PETALS: Collaborative Inference and Fine-tuning of Large Models](http://arxiv.org/abs/2209.01188) - *Yandex*, `arxiv 2022`
-
-* [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102.pdf) - *Google*, `arxiv 2022`
-
-* [High-throughput Generative Inference of Large Language Models with a Single GPU](https://github.com/FMInference/FlexGen/blob/main/docs/paper.pdf) - *Stanford etc.*, `arxiv 2023`
+* [FP8 Formats for Deep Learning](http://arxiv.org/abs/2209.05433) - *NVIDIA & ARM & Intel*, `arxiv 2022`
 
 ## Platform
 
