@@ -49,6 +49,10 @@
 
 * [Quadapter: Adapter for GPT-2 Quantization](https://arxiv.org/pdf/2211.16912.pdf) - *Qualcomm AI Research*,  `arxiv 2022`
 
+* [A Comprehensive Study on Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2303.08302) - *Microsoft*, `arxiv 2023`
+
+* [RPTQ: Reorder-based Post-training Quantization for Large Language Models](https://arxiv.org/abs/2304.01089) - *Houmo AI*, `arxiv 2023`
+
 ## Software Algorithms -- Pruning
 
 * [A Fast Post-Training Pruning Framework for Transformers](https://arxiv.org/pdf/2204.09656.pdf) - *UC Berkeley*, `arxiv 2022`
