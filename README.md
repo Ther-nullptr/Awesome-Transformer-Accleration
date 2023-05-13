@@ -28,6 +28,8 @@
 
 * [Understanding and Overcoming the Challenges of Efficient Transformer Quantization](https://aclanthology.org/2021.emnlp-main.627) - *Qualcomm AI Research*, `EMNLP 2021`
 
+* [Optimal Clipping and Magnitude-aware Differentiation for Improved Quantization-aware Training](https://arxiv.org/abs/2206.06501) - *NVIDIA*, `ICML 2022`
+
 * [ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers](https://arxiv.org/pdf/2206.01861.pdf) - *Microsoft*, `arxiv 2022`
 
 * [Outlier Suppression: Pushing the Limit of Low-bit Transformer](https://arxiv.org/abs/2209.13325) - *BUAA & SenseTime & PKU & UESTC*, `NIPS 2022`
@@ -52,6 +54,8 @@
 * [A Comprehensive Study on Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2303.08302) - *Microsoft*, `arxiv 2023`
 
 * [RPTQ: Reorder-based Post-training Quantization for Large Language Models](https://arxiv.org/abs/2304.01089) - *Houmo AI*, `arxiv 2023`
+
+* [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) - *BUAA & SenseTime & PKU & UESTC*, `arxiv 2023`
 
 ## Software Algorithms -- Pruning
 
