@@ -57,6 +57,8 @@
 
 * [Outlier Suppression+: Accurate quantization of large language models by equivalent and optimal shifting and scaling](https://arxiv.org/abs/2304.09145) - *BUAA & SenseTime & PKU & UESTC*, `arxiv 2023`
 
+* [QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) - *University of Washington*, `arxiv 2023`
+
 ## Software Algorithms -- Pruning
 
 * [A Fast Post-Training Pruning Framework for Transformers](https://arxiv.org/pdf/2204.09656.pdf) - *UC Berkeley*, `arxiv 2022`
@@ -67,7 +69,7 @@
 
 * [ZipLM: Hardware-Aware Structured Pruning of Language Models](https://arxiv.org/pdf/2302.04089.pdf) - *IST Austria*, `arxiv 2023`
 
-## Hardware Implementations -- Machine Learning System
+## System Implementations -- Machine Learning System
 
 * [DeepSpeed Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale](https://arxiv.org/pdf/2207.00032.pdf) - *Microsoft*, `arxiv 2022`
 
@@ -76,6 +78,10 @@
 * [EFFICIENTLY SCALING TRANSFORMER INFERENCE](https://arxiv.org/pdf/2211.05102.pdf) - *Google*, `arxiv 2022`
 
 * [High-throughput Generative Inference of Large Language Models with a Single GPU](https://github.com/FMInference/FlexGen/blob/main/docs/paper.pdf) - *Stanford etc.*, `arxiv 2023`
+
+* [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318.pdf) - *Deep Mind*, `arxiv 2023`
+
+* [SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/abs/2305.09781) - *CMU & UCSD*, `arxiv 2023`
 
 ## Hardware Implementations -- Acclerators
 
@@ -94,19 +100,5 @@
 * [FP8 Quantization: The Power of the Exponent](https://arxiv.org/abs/2208.09225) - *Qualcomm AI Research*, `arxiv 2022`
 
 * [FP8 Formats for Deep Learning](http://arxiv.org/abs/2209.05433) - *NVIDIA & ARM & Intel*, `arxiv 2022`
-
-## Platform
-
-* [EET](https://github.com/NetEase-FuXi/EET)
-
-* [petals](https://petals.ml/)
-
-* [FasterTransformer](https://github.com/NVIDIA/FasterTransformer)
-
-* [SmoothQuant](https://github.com/mit-han-lab/smoothquant)
-
-* [FlexGen](https://github.com/FMInference/FlexGen)
-
-* [DeepSpeed](https://github.com/microsoft/DeepSpeed)
 
 updating ...
