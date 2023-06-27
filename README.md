@@ -82,6 +82,8 @@
 
 * :star:[SpecInfer: Accelerating Generative LLM Serving with Speculative Inference and Token Tree Verification](https://arxiv.org/abs/2305.09781) - *CMU & UCSD*, `arxiv 2023`
 
+* [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/) - *UCB*
+
 ## Hardware Implementations -- Acclerators
 
 * [A3: Accelerating Attention Mechanisms in Neural Networks with Approximation](https://ieeexplore.ieee.org/abstract/document/9065498/) - *Seoul National University & Hynix*, `HPCA 2020`
