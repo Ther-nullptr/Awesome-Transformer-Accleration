@@ -58,6 +58,10 @@
 
 * :star:[QLORA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) - *University of Washington*, `arxiv 2023`
 
+* [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978) - *MIT*, `arxiv 2023`
+
+* [Scissorhands: Exploiting the Persistence of Importance Hypothesis for LLM KV Cache Compression at Test Time](https://arxiv.org/abs/2305.17118) - *Rice University*, `arxiv 2023`
+
 ## Software Algorithms -- Pruning
 
 * [A Fast Post-Training Pruning Framework for Transformers](https://arxiv.org/pdf/2204.09656.pdf) - *UC Berkeley*, `arxiv 2022`
